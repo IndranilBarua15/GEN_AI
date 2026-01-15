@@ -85,9 +85,13 @@ This interface allows non-technical users to interact with the ANN model effortl
 ## 👤 Author Details
 
 **Name:** Indranil Barua Betal
+
 **Institute:** Haldia Institute of Technology
+
 **Academic Status:** 3rd Semester
+
 **Skills:** C, C++, Java, Python, SQL, Machine Learning, Deep Learning
+
 **Email:** [indranilbaruabetal@gmail.com](mailto:indranilbaruabetal@gmail.com)
 
 ---
@@ -95,7 +99,3 @@ This interface allows non-technical users to interact with the ANN model effortl
 ## 📄 License
 
 This project is created for academic and learning purposes. Feel free to use and modify it with proper attribution.
-
----
-
-⭐ *If you find this project helpful, feel free to give it a star!*
