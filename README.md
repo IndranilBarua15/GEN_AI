@@ -93,9 +93,3 @@ This interface allows non-technical users to interact with the ANN model effortl
 **Skills:** C, C++, Java, Python, SQL, Machine Learning, Deep Learning
 
 **Email:** [indranilbaruabetal@gmail.com](mailto:indranilbaruabetal@gmail.com)
-
----
-
-## 📄 License
-
-This project is created for academic and learning purposes. Feel free to use and modify it with proper attribution.
