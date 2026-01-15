@@ -88,8 +88,6 @@ This interface allows non-technical users to interact with the ANN model effortl
 
 **Institute:** Haldia Institute of Technology
 
-**Academic Status:** 3rd Semester
-
 **Skills:** C, C++, Java, Python, SQL, Machine Learning, Deep Learning
 
 **Email:** [indranilbaruabetal@gmail.com](mailto:indranilbaruabetal@gmail.com)
