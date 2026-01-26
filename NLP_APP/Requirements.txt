@@ -1,0 +1,7 @@
+streamlit
+nltk==3.8.1
+spacy
+pandas
+matplotlib
+numpy
+scikit-learn
